@@ -1,0 +1,10 @@
+.algorithm-dijkstra-main{
+    margin-left: auto;
+    margin-right: auto; 
+    width: 70%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

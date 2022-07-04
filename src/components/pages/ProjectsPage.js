@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 function ProjectsPage() {
     
@@ -9,7 +10,7 @@ function ProjectsPage() {
             <div className="blogs">
                 <div className="blog_individual">
                     <div className="blog_title">
-                        <a href="/game-of-life/">Conways Game of Life</a>
+                        <a href="/my-page/projects/gameoflife">Conways Game of Life</a>
                     </div>
                     
                     <div className="blog_date">June 24th 2021</div>
@@ -17,7 +18,7 @@ function ProjectsPage() {
                 <br></br>
                 <div className="blog_individual">
                     <div className="blog_title">
-                        <a href="/my-page/algorithm/">Algorithm Visualizer</a>
+                        <Link to="/projects/algorithm">Algorithm Visualizer</Link>                        
                     </div>
                     
                     <div className="blog_date">January 18th 2022</div>
@@ -25,7 +26,7 @@ function ProjectsPage() {
                 <br></br>
                 <div className="blog_individual">
                     <div className="blog_title">
-                        <a href="/algorithm/">8-Bit CPU Assembler and Simulator</a>
+                        <a href="/algorithm">8-Bit CPU Assembler and Simulator</a>
                     </div>
                     
                     <div className="blog_date">May 1st 2022</div>

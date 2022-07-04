@@ -1,23 +1,19 @@
 .App {
   text-align: center;
+  font-family:'Courier New', Courier, monospace, BlinkMacSystemFont;
+  font-size: 14px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.AppNav{
+  text-align: center;
+  position: relative; 
+  margin: 0 auto; 
+  width: 70%; 
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.home_page{
+  text-align: left;
+  position: relative; 
+  margin: 0 auto; 
+  width: 70%;
 }
