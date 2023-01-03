@@ -10,7 +10,7 @@ function ProjectsPage() {
             <div className="blogs">
                 <div className="blog_individual">
                     <div className="blog_title">
-                        <a href="/my-page/projects/gameoflife">Conways Game of Life</a>
+                        <Link to="/projects/gameoflife">Game of Life</Link>                        
                     </div>
                     
                     <div className="blog_date">June 24th 2021</div>
