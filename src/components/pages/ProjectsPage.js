@@ -6,7 +6,7 @@ function ProjectsPage() {
     return(
         
         <div className="blog_page">
-            
+             {/*  
             <div className="blogs">
                 <div className="blog_individual">
                     <div className="blog_title">
@@ -33,6 +33,7 @@ function ProjectsPage() {
                 </div>
 
             </div>
+             */}
         </div>
     );
 }

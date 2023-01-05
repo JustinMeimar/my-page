@@ -14,7 +14,7 @@ function HomePage() {
             a machine agnostic compiler, a virtual CPU, and an assembler for a custom ISA. I'm 
             currently working on completing the projects described in 
             <a href='https://github.com/geohot/fromthetransistor' target='_blank'> 
-            this Github blog</a>, 
+             this Github blog</a>, 
             which aims to teach the software stack from the ground up.
             
             <br></br> <br></br>
@@ -29,10 +29,9 @@ function HomePage() {
             , a local Edmonton company.
             
             <br></br> <br></br>
-            Outside of computers, I enjoy reading and running. My 
-            <a href="https://www.goodreads.com/user/show/137002609-justin-meimar"
+            Outside of computers, I enjoy reading and running. My <a href="https://www.goodreads.com/user/show/137002609-justin-meimar" 
                 target='_blank' >
-                GoodReads</a> link. 
+                 GoodReads</a> profile. 
             </div>    
         </div>     
     );
